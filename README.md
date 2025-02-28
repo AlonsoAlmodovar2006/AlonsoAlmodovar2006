@@ -1,25 +1,21 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**AlonsoAlmodovar2006/AlonsoAlmodovar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alonso Almodóvar, an 18-year-old student from Valdepeñas (Ciudad Real), Spain. I'm currently studying **Web Application Development** at IES Gregorio Prieto.  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning different tools and technologies, including:  
+  - **Programming Languages**: Java, JavaScript, SQL  
+  - **Web Development**: HTML, CSS, JSON  
+  - **Virtualization**: VirtualBox  
+  - **Project Management**: Jira, Scrum methodology, ClickUp, GitHub  
+  - **PC Building & OS Installation (Windows & Linux)**  
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a website for a class project.  
+  You can check it out here: [trabajo-final-ivory-psi.vercel.app](https://trabajo-final-ivory-psi.vercel.app)  
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-This is Alonso Almodóvar and I'm 18 years old. I'm from a town in Spain, called Valdepeñas (Ciudad Real). It's the same place that I'm studying. Especifically, I'm studying Web Application Development. 
-- 🌱 I’m currently learning some different programming languages and enviroments like:
-  - Java
-  - HTML
-  - CSS
-  - JavaScript
-  - VirtualBox
-  - SQL
-  - 
+## 📬 Contact  
+Feel free to reach out for collaborations, discussions, or exciting opportunities!  
+
+- 📧 Email: alonsoalmodovar09@gmail.com  
+- 📷 Instagram: [@alonsooad_](https://instagram.com/alonsooad_)  
+
+Thanks for visiting my repository! 🚀  
