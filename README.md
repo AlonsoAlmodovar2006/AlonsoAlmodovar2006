@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 This is Alonso Almodóvar and I'm 18 years old. I'm from a town in Spain, called Valdepeñas (Ciudad Real). It's the same place that I'm studying. Especifically, I'm studying Web Application Development. 
 - 🌱 I’m currently learning some different programming languages and enviroments like:
-- - Java
+  - Java
   - HTML
   - CSS
   - JavaScript
