@@ -21,7 +21,9 @@ Beyond coding, I have a deep passion for:
 - 📖 **Theology & Philosophy** – I love exploring big questions about life, existence, and meaning.  
 - 💚 **Real Betis Balompié** – A passionate supporter of *Los Verdiblancos*. ¡Viva el Betis *Manquepierda*! 🟢⚪  
 - 🤲 **Community & Charity Work** – I actively serve in my **Evangelical Church** and participate in charitable projects to help those in need.  
-- 🤓 **Passionate about Knowledge** – Whether it’s tech, history, or abstract ideas, I’m always eager to learn something new.  
+- 🤓 **Passionate about Knowledge** – Whether it’s tech, history, or abstract ideas, I’m always eager to learn something new.
+- 🏋️ **Well-being & Balance** – I prioritize both mental and physical health by working out at the gym, playing sports, traveling, and spending time with friends.  
+ 
 
 ### 📬 Get in Touch  
 Feel free to reach out for collaborations, discussions, or exciting opportunities!  
