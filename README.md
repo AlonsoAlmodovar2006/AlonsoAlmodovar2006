@@ -30,6 +30,6 @@ Feel free to reach out for collaborations, discussions, or exciting opportunitie
 
 📧 **Email**: alonsoalmodovar09@gmail.com  
 📷 **Instagram**: [@alonsooad_](https://instagram.com/alonsooad_)  
-💼 **LinkedIn**: *In progress* 🚧  
+💼 **LinkedIn**: [*Alonso* 🚧 ](https://www.linkedin.com/in/alonso-almod%C3%B3var-delgado/) 
 
 Thanks for visiting my repository! 😊  
