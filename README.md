@@ -13,8 +13,8 @@ I'm currently in my second and last year of Web Application Development.
 - **PC Hardware Assembly & OS Installation**
 
 ### 🔭 Some Projects
-Develop an application requested by the company Cojali.  
-Check it out here: **[trabajo-final-ivory-psi.vercel.app](https://trabajo-final-ivory-psi.vercel.app)** 🚀  
+Develop an application requested by the company [Cojali](https://www.cojali.com/es/). 
+➡️ Check it out here: **[trabajo-final-ivory-psi.vercel.app](https://trabajo-final-ivory-psi.vercel.app)** 🚀  
 
 ### 💡 About Me  
 Beyond coding, I have a deep passion for:  
@@ -29,6 +29,6 @@ Feel free to reach out for collaborations, discussions, or exciting opportunitie
 
 📧 **Email**: alonsoalmodovar09@gmail.com  
 📷 **Instagram**: [@alonsooad_](https://instagram.com/alonsooad_)  
-💼 **LinkedIn**: [*Alonso* 🚧 ](https://www.linkedin.com/in/alonso-almod%C3%B3var-delgado/) 
+💼 **LinkedIn**: [*Alonso* 🚧 ]((https://www.linkedin.com/in/alonso-almodovar-delgado/)) 
 
 Thanks for visiting my repository! 😊  
