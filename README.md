@@ -9,7 +9,7 @@ I'm currently in my first year of Web Application Development.
 - **Web Development**: HTML, CSS, JSON, PowerApps, Balsamiq  
 - **Productivity & Office Tools**: Microsoft Office  
 - **Virtualization & Operating Systems**: VirtualBox, Windows, Linux  
-- **Project Management**: Jira, Scrum methodology, ClickUp, GitHub  
+- **Project Management**: Jira, Agile Scrum methodology, ClickUp, GitHub  
 - **PC Building & OS Installation**
 
 ### 🔭 Current Project  
