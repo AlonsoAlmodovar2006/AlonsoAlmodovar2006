@@ -5,8 +5,8 @@ Currently, I'm studying **Web Application Development** at **IES Gregorio Prieto
 
 ### 🌱 What I'm Learning in My Studies  
 I'm currently in my second and last year of Web Application Development.  
-- **Programming Languages**: Java, JavaScript, SQL, PHP
-- **Web Development & Frameworks**: HTML, CSS, JSON,  Laravel, SCSS
+- **Programming Languages**: Java, JavaScript, PHP, SQL
+- **Web Development & Frameworks**: Angular, CSS, HTML, JSON, Laravel, SCSS
 - **Development & Productivity Tools**: Microsoft Office, Jira, Agile Scrum Methodology, ClickUp, GitHub, PowerApps
 - **Virtualization & Operating Systems**: VirtualBox, Windows, Linux  
 - **Containerization & DevOps**: Docker, Docker Compose
